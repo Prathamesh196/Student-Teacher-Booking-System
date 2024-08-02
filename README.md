@@ -4,10 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -35,31 +32,6 @@ The Student-Teacher Booking Appointment System is a web application designed to 
 - JavaScript
 - Firebase (Authentication, Realtime Database)
 
-## Project Structure
-
-├── css
-│   └── styles.css
-├── js
-│   ├── admin.js
-│   ├── admin_login.js
-│   ├── admin_signup.js
-│   ├── teacher.js
-│   ├── teacher_login.js
-│   ├── teacher_signup.js
-│   ├── student.js
-│   ├── student_login.js
-│   └── student_signup.js
-├── index.html
-├── admin.html
-├── admin_login.html
-├── admin_signup.html
-├── teacher.html
-├── teacher_login.html
-├── teacher_signup.html
-├── student.html
-├── student_login.html
-└── student_signup.html
-
 
 
 ## Usage
@@ -68,5 +40,5 @@ Use the navigation buttons to access the Admin, Teacher, and Student login pages
 Register and log in as an Admin, Teacher, or Student to use the system functionalities
 
 
-License
+## License
 This project is licensed under the Apache 2.0 License.
